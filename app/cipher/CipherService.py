@@ -1,5 +1,3 @@
-import abc
-
 from app.Alphabet import Alphabet
 from app.cipher.KeywordCipher import KeywordCipher
 from app.cipher.LinearCipher import LinearCipher
